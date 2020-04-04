@@ -53,11 +53,11 @@ class MovieTabs extends React.Component{
       </li>
       <li className="nav-item">
         <div
-          className={getClassActiveLink("vote_avetage.desc")}
-          // className={`nav-link ${sort_by === "vote_avetage.desc" ? "active" : ""}`}
-          onClick={handleClick("vote_avetage.desc")}
+          className={getClassActiveLink("vote_average.desc")}
+          // className={`nav-link ${sort_by === "vote_average.desc" ? "active" : ""}`}
+          onClick={handleClick("vote_average.desc")}
         >
-          Vote avetage desc
+          Vote average desc
         </div>
       </li>
     </ul>
