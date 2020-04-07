@@ -1,15 +1,15 @@
 {
-  "main.css": "/reactwarriors-master-class-master/static/css/main.8407a952.chunk.css",
-  "main.js": "/reactwarriors-master-class-master/static/js/main.47ec5efe.chunk.js",
-  "main.js.map": "/reactwarriors-master-class-master/static/js/main.47ec5efe.chunk.js.map",
-  "runtime~main.js": "/reactwarriors-master-class-master/static/js/runtime~main.6397383a.js",
-  "runtime~main.js.map": "/reactwarriors-master-class-master/static/js/runtime~main.6397383a.js.map",
-  "static/css/2.3ac6d48a.chunk.css": "/reactwarriors-master-class-master/static/css/2.3ac6d48a.chunk.css",
-  "static/js/2.1c8d0edb.chunk.js": "/reactwarriors-master-class-master/static/js/2.1c8d0edb.chunk.js",
-  "static/js/2.1c8d0edb.chunk.js.map": "/reactwarriors-master-class-master/static/js/2.1c8d0edb.chunk.js.map",
-  "index.html": "/reactwarriors-master-class-master/index.html",
-  "precache-manifest.ffeaca0d7e278ab278a7c75cf6ad8723.js": "/reactwarriors-master-class-master/precache-manifest.ffeaca0d7e278ab278a7c75cf6ad8723.js",
-  "service-worker.js": "/reactwarriors-master-class-master/service-worker.js",
-  "static/css/2.3ac6d48a.chunk.css.map": "/reactwarriors-master-class-master/static/css/2.3ac6d48a.chunk.css.map",
-  "static/css/main.8407a952.chunk.css.map": "/reactwarriors-master-class-master/static/css/main.8407a952.chunk.css.map"
+  "main.css": "./static/css/main.8407a952.chunk.css",
+  "main.js": "./static/js/main.47ec5efe.chunk.js",
+  "main.js.map": "./static/js/main.47ec5efe.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/css/2.3ac6d48a.chunk.css": "./static/css/2.3ac6d48a.chunk.css",
+  "static/js/2.1c8d0edb.chunk.js": "./static/js/2.1c8d0edb.chunk.js",
+  "static/js/2.1c8d0edb.chunk.js.map": "./static/js/2.1c8d0edb.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.969f4edb61b05db57519478c7482b68b.js": "./precache-manifest.969f4edb61b05db57519478c7482b68b.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.3ac6d48a.chunk.css.map": "./static/css/2.3ac6d48a.chunk.css.map",
+  "static/css/main.8407a952.chunk.css.map": "./static/css/main.8407a952.chunk.css.map"
 }
